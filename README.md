@@ -1,4 +1,4 @@
-Mini Demo E-commerce Website
+#Mini Demo E-commerce Website
 This is a mini demo e-commerce website that uses Servlet, JSP, and Microsoft SQL Server. The website is a simple online store that allows users to view products and add them to their cart. Users can then check out and place an order.
 
 Technologies Used
