@@ -12,7 +12,7 @@ JQuery
 To run this demo e-commerce website, you will need:
 Java Development Kit (JDK)
 Apache Tomcat Server
-Microsoft SQL Server
+Microsoft SQL Server 
 
 # Setup
 Clone this repository to your local machine.
